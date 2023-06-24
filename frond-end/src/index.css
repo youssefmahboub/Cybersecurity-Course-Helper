@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --tw-bg-opacity: 1;
+    --tw-bg-opacity: 1;
+    --tw-border-opacity: 1;
+    --tw-text-opacity: 1;
+    --tw-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000, 0 0 #0000, 0 0 #0000,
+      0 0 #0000, 0 0 #0000, 0 0 #0000;
+  }
+  .dark {
+    --tw-bg-opacity: 1;
+    background-color: rgba(17, 24, 39, var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgba(255, 255, 255, var(--tw-text-opacity));
+  }
+} */
