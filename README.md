@@ -12,6 +12,9 @@ Welcome to **Cybersecurity Course Helper**! This web application is designed to 
 ## Description
 
 Cybersecurity Course Helper is an AI-powered web app built to augment your learning experience with the Google Cybersecurity Certificate. By leveraging cutting-edge technologies like React.js, Node.js, Express.js, Langchain, and the OpenAI API, this tool provides you with the ability to answer any questions related to the Google Cybersecurity Certificate.
+> 
+#### Warning!
+This tool is here to aid your memory on vital cybersecurity course material, not to unleash your inner cheat-master... and Remember, relying on cheating won't magically transform you into a cybersecurity expert. Trustworthiness and expertise come from honest dedication and hard work. Embrace the learning journey, and let your cybersecurity skills shine like a pro!, shortcuts won't hack it in the real world.
 
 ## Tech Stack
 
