@@ -1,8 +1,5 @@
 # Cybersecurity Course Helper
 
-[![GitHub](https://img.shields.io/github/license/youssefmahboub/Cybersecurity-Course-Helper)](LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/youssefmahboub/Cybersecurity-Course-Helper)](https://github.com/your-username/Cybersecurity-Course-Helper/commits/master)
-
 Welcome to **Cybersecurity Course Helper**! This web application is designed to assist you in studying the Google Cybersecurity Certificate with the power of AI. Whether you need to recall specific parts of the courses you've forgotten or simplify concepts you didn't fully grasp, this app is here to support your learning journey.
 
 ## Table of Contents
@@ -26,7 +23,8 @@ The Cybersecurity Course Helper project utilizes the following technologies:
 - Langchain
 - OpenAI API
 
-## Features
+## License
+This project is licensed under the MIT License.
 
 `git clone https://github.com/your-username/Cybersecurity-Course-Helper.git
 `
