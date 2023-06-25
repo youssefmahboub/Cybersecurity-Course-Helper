@@ -23,16 +23,8 @@ The Cybersecurity Course Helper project utilizes the following technologies:
 - Langchain
 - OpenAI API
 
-## License
-This project is licensed under the MIT License.
 
-`git clone https://github.com/your-username/Cybersecurity-Course-Helper.git
-`
 
-- Accessible and user-friendly interface.
-- Ability to answer questions related to the Google Cybersecurity Certificate.
-- Aids in remembering forgotten course content.
-- Simplifies complex concepts for better understanding.
 
 ## Installation
 
@@ -71,3 +63,7 @@ Start the React.js development server:
     npm start
 	
 The Cybersecurity Course Helper web app will now be running locally on your machine. Access it by visiting http://localhost:3000 in your web browser.
+
+
+## License
+This project is licensed under the MIT License.
