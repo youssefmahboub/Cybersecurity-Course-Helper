@@ -46,7 +46,7 @@ The Cybersecurity Course Helper project utilizes the following technologies:
 
 Clone this GitHub repository to your local machine:
 
-        git clone https://github.com/your-username/Cybersecurity-Course-Helper.git
+    git clone https://github.com/your-username/Cybersecurity-Course-Helper.git
     
 	
 Navigate to the back-end directory:
