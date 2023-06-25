@@ -31,6 +31,9 @@ The Cybersecurity Course Helper project utilizes the following technologies:
 
 ## Features
 
+`git clone https://github.com/your-username/Cybersecurity-Course-Helper.git
+`
+
 - Accessible and user-friendly interface.
 - Ability to answer questions related to the Google Cybersecurity Certificate.
 - Aids in remembering forgotten course content.
