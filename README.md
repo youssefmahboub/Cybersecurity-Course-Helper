@@ -43,6 +43,38 @@ The Cybersecurity Course Helper project utilizes the following technologies:
 
 ## Installation
 
-To run the Cybersecurity Course Helper application locally, please follow the instructions below:
 
-1. Clone this GitHub repository to your local machine:
+Clone this GitHub repository to your local machine:
+
+        git clone https://github.com/your-username/Cybersecurity-Course-Helper.git
+    
+	
+Navigate to the back-end directory:
+
+    cd Cybersecurity-Course-Helper/back-end
+	
+Install the necessary dependencies:
+
+    npm install
+	
+Create .env file and define the openai api
+
+    OPENAI_API_KEY=*********************
+	
+Start the Express.js API server:
+
+    npm main.js
+	
+Open a new terminal and navigate to the front-end directory:
+
+    cd ../front-end
+	
+Install the required dependencies:
+
+    npm install
+	
+Start the React.js development server:
+
+    npm start
+	
+The Cybersecurity Course Helper web app will now be running locally on your machine. Access it by visiting http://localhost:3000 in your web browser.
