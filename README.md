@@ -1,2 +1,2 @@
-# Cybersecurity-Course-Helper
+# Cybersecurity Course Helper
  
