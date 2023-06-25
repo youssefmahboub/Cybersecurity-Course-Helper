@@ -8,7 +8,7 @@ Welcome to **Cybersecurity Course Helper**! This web application is designed to 
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [License](#license)
-
+- [Support Me](#support-me)
 ## Description
 
 Cybersecurity Course Helper is an AI-powered web app built to augment your learning experience with the Google Cybersecurity Certificate. By leveraging cutting-edge technologies like React.js, Node.js, Express.js, Langchain, and the OpenAI API, this tool provides you with the ability to answer any questions related to the Google Cybersecurity Certificate.
@@ -22,8 +22,6 @@ The Cybersecurity Course Helper project utilizes the following technologies:
 - Express.js
 - Langchain
 - OpenAI API
-
-<a href='https://ko-fi.com/N4N6MEFGD' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
 ## Installation
@@ -67,3 +65,6 @@ The Cybersecurity Course Helper web app will now be running locally on your mach
 
 ## License
 This project is licensed under the MIT License.
+
+## Support Me
+<a href='https://ko-fi.com/N4N6MEFGD' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
