@@ -2,6 +2,9 @@
 
 Welcome to **Cybersecurity Course Helper**! This web application is designed to assist you in studying the Google Cybersecurity Certificate with the power of AI. Whether you need to recall specific parts of the courses you've forgotten or simplify concepts you didn't fully grasp, this app is here to support your learning journey.
 
+![Screenshot](Screenshot.png)
+
+
 ## Table of Contents
 
 - [Description](#description)
@@ -32,7 +35,7 @@ The Cybersecurity Course Helper project utilizes the following technologies:
 
 Clone this GitHub repository to your local machine:
 
-    git clone https://github.com/your-username/Cybersecurity-Course-Helper.git
+    git clone https://github.com/youssefmahboub/Cybersecurity-Course-Helper.git
     
 	
 Navigate to the back-end directory:
@@ -49,11 +52,11 @@ Create .env file and define the openai api
 	
 Start the Express.js API server:
 
-    npm main.js
+    node main.js
 	
 Open a new terminal and navigate to the front-end directory:
 
-    cd ../front-end
+    cd Cybersecurity-Course-Helper/front-end
 	
 Install the required dependencies:
 
