@@ -7,13 +7,21 @@ Welcome to **Cybersecurity Course Helper**! This web application is designed to 
 I built this web app to support me in my journey into the cyber security field, and i'm adding only the content I studied so far from the google cybersecurity certificate and i will add the rest of the content as I progress:
 
 The "google-cybersecurity-course-content" contains TXT Files for the courses content:
+
 Course 1 : Foundations of Cybersecurity ..... Added
+
 Course 2 : Play It Safe: Manage Security Risks .... Soon
+
 Course 3 : Connect and Protect: Networks and Network Security .... Soon
+
 Course 4 : Tools of the Trade: Linux and SQL .... Soon
+
 Course 5 : Assets, Threats, and Vulnerabilities .... Soon
+
 Course 6 : Sound the Alarm: Detection and Response .... Soon
+
 Course 7 : Automate Cybersecurity Tasks with Python .... Soon
+
 Course 8 : Put It to Work: Prepare for Cybersecurity Jobs .... Soon
 
 Note: you can always add the content by yourself if you are far ahead of me
