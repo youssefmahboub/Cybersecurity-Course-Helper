@@ -66,7 +66,7 @@ Start the React.js development server:
 
     npm start
 	
-The Cybersecurity Course Helper web app will now be running locally on your machine. Access it by visiting http://localhost:3000 in your web browser.
+The Cybersecurity Course Helper web app will now be running locally on your machine. 
 
 
 ## License
