@@ -52,7 +52,7 @@ Create .env file and define the openai api
 	
 Start the Express.js API server:
 
-    npm main.js
+    node main.js
 	
 Open a new terminal and navigate to the front-end directory:
 
