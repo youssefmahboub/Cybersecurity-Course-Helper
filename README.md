@@ -56,7 +56,7 @@ Start the Express.js API server:
 	
 Open a new terminal and navigate to the front-end directory:
 
-    cd ../front-end
+    cd Cybersecurity-Course-Helper/front-end
 	
 Install the required dependencies:
 
