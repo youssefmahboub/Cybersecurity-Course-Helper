@@ -10,7 +10,7 @@ The "google-cybersecurity-course-content" contains TXT Files for the courses con
 
 Course 1 : Foundations of Cybersecurity ..... Added
 
-Course 2 : Play It Safe: Manage Security Risks .... Soon
+Course 2 : Play It Safe: Manage Security Risks .... Added
 
 Course 3 : Connect and Protect: Networks and Network Security .... Soon
 
